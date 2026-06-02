@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/github-activity",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 2 - GitHub User Activity CLI",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
