@@ -73,3 +73,7 @@ ehthumbs.db
 *.njsproj
 *.sln
 *.swp
+
+# Project specific local storage files (like for Project 1)
+projects/*/*.json
+!projects/*/package.json
