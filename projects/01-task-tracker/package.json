@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/task-tracker",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 1 - Task Tracker CLI application",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
