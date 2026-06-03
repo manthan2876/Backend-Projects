@@ -9,6 +9,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/03-expense-tracker` — Expense tracker CLI application.
 - `projects/04-number-guessing-game` — Number guessing game CLI application.
 - `projects/05-unit-converter` — Unit converter CLI application.
+- `projects/06-personal-blog` — Personal blog platform web application.
 
 ## Quick Start
 
@@ -19,6 +20,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 03-expense-tracker README](projects/03-expense-tracker/README.md)
 - [📄 04-number-guessing-game README](projects/04-number-guessing-game/README.md)
 - [📄 05-unit-converter README](projects/05-unit-converter/README.md)
+- [📄 06-personal-blog README](projects/06-personal-blog/README.md)
 
 ## Project URL
 
@@ -27,6 +29,7 @@ Open the project-specific readme for full setup and usage details:
 - Expense Tracker project: https://roadmap.sh/projects/expense-tracker
 - Number Guessing Game project: https://roadmap.sh/projects/number-guessing-game
 - Unit Converter project: https://roadmap.sh/projects/unit-converter
+- Personal Blog project: https://roadmap.sh/projects/personal-blog
 
 ## Notes
 
