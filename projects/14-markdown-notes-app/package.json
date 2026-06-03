@@ -1,0 +1,14 @@
+{
+  "name": "@roadmap/markdown-notes-app",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 14 - Server-Rendered Markdown Note-taking Web Application",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "marked": "^18.0.4"
+  }
+}
