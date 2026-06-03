@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/expense-tracker-api",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 10 - Expense Tracker REST API Server Backend",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
