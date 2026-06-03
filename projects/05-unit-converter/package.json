@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/unit-converter",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 5 - Unit Converter Web App Application",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
