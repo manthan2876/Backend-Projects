@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/github-trending-cli",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 11 - GitHub Trending Repository Finder CLI Tool",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
