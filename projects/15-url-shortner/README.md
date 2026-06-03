@@ -41,4 +41,4 @@ npm start
 
 ## Project URL
 
-* https://roadmap.sh/projects/url-shortening-api
+* https://roadmap.sh/projects/url-shortening-service

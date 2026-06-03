@@ -38,7 +38,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 12-tmdb-movie-cli README](projects/12-tmdb-movie-cli/README.md)
 - [📄 13-caching-proxy README](projects/13-caching-proxy/README.md)
 - [📄 14-markdown-note-taking-app README](projects/14-markdown-notes-app/README.md)
-- [📄 15-url-shortening-api README](projects/15-url-shortener/README.md)
+- [📄 15-url-shortening-api README](projects/15-url-shortner/README.md)
 
 ## Project URL
 
@@ -56,7 +56,7 @@ Open the project-specific readme for full setup and usage details:
 - TMDB Movie CLI project: https://roadmap.sh/projects/tmdb-cli
 - Caching Proxy Server project: https://roadmap.sh/projects/caching-server
 - Markdown Note-Taking App project: https://roadmap.sh/projects/markdown-note-taking-app
-- URL Shortener API project: https://roadmap.sh/projects/url-shortening-api
+- URL Shortener API project: https://roadmap.sh/projects/url-shortening-service
 
 ## Notes
 
