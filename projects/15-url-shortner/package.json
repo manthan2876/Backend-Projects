@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/url-shortener",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 15 - URL Shortening REST API Server Proxy Engine",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
