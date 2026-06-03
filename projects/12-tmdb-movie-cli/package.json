@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/tmdb-movie-cli",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 12 - TMDB Authenticated REST API Movie Client CLI Tool",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
