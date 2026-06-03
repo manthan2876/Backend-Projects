@@ -16,6 +16,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/10-expense-tracker-api` — Expense tracker REST API backend application.
 - `projects/11-gtihub-trending-cli` — GitHub trending repositories CLI tool.
 - `projects/12-tmdb-movie-cli` — TMDB movie search CLI application.
+- `projects/13-caching-proxy` — A caching proxy server CLI application.
 
 ## Quick Start
 
@@ -33,6 +34,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 10-expense-tracker-api README](projects/10-expense-tracker-api/README.md)
 - [📄 11-gtihub-trending-cli README](projects/11-gtihub-trending-cli/README.md)
 - [📄 12-tmdb-movie-cli README](projects/12-tmdb-movie-cli/README.md)
+- [📄 13-caching-proxy README](projects/13-caching-proxy/README.md)
 
 ## Project URL
 
@@ -48,6 +50,7 @@ Open the project-specific readme for full setup and usage details:
 - Expense Tracker API project: https://roadmap.sh/projects/expense-tracker-api
 - GitHub Trending CLI project: https://roadmap.sh/projects/github-trending-cli
 - TMDB Movie CLI project: https://roadmap.sh/projects/tmdb-cli
+- Caching Proxy Server project: https://roadmap.sh/projects/caching-server
 
 ## Notes
 

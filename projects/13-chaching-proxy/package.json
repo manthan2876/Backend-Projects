@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/caching-proxy",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 13 - Network Caching Proxy Server CLI Utility",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
