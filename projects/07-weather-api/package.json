@@ -1,0 +1,14 @@
+{
+  "name": "@roadmap/weather-api",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 7 - Weather API Server Backend Proxy Wrapper",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
