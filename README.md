@@ -11,6 +11,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/05-unit-converter` — Unit converter CLI application.
 - `projects/06-personal-blog` — Personal blog platform web application.
 - `projects/07-weather-api` — Weather API wrapper service backend application.
+- `projects/08-blogging-plateform-api` — Blogging platform REST API backend application.
 
 ## Quick Start
 
@@ -23,6 +24,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 05-unit-converter README](projects/05-unit-converter/README.md)
 - [📄 06-personal-blog README](projects/06-personal-blog/README.md)
 - [📄 07-weather-api README](projects/07-weather-api/README.md)
+- [📄 08-blogging-plateform-api README](projects/08-blogging-plateform-api/README.md)
 
 ## Project URL
 
@@ -33,6 +35,7 @@ Open the project-specific readme for full setup and usage details:
 - Unit Converter project: https://roadmap.sh/projects/unit-converter
 - Personal Blog project: https://roadmap.sh/projects/personal-blog
 - Weather API project: https://roadmap.sh/projects/weather-api-wrapper-service
+- Blogging Platform project: https://roadmap.sh/projects/blogging-platform-api
 
 ## Notes
 
