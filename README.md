@@ -37,7 +37,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 11-gtihub-trending-cli README](projects/11-gtihub-trending-cli/README.md)
 - [📄 12-tmdb-movie-cli README](projects/12-tmdb-movie-cli/README.md)
 - [📄 13-caching-proxy README](projects/13-caching-proxy/README.md)
-- [📄 14-markdown-note-taking-app README](projects/14-markdown-note-taking-app/README.md)
+- [📄 14-markdown-note-taking-app README](projects/14-markdown-notes-app/README.md)
 - [📄 15-url-shortening-api README](projects/15-url-shortener/README.md)
 
 ## Project URL
