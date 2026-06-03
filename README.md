@@ -15,6 +15,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/09-todo-list-api` — Secure todo list REST API with JWT authentication.
 - `projects/10-expense-tracker-api` — Expense tracker REST API backend application.
 - `projects/11-gtihub-trending-cli` — GitHub trending repositories CLI tool.
+- `projects/12-tmdb-movie-cli` — TMDB movie search CLI application.
 
 ## Quick Start
 
@@ -31,6 +32,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 09-todo-list-api README](projects/09-todo-list-api/README.md)
 - [📄 10-expense-tracker-api README](projects/10-expense-tracker-api/README.md)
 - [📄 11-gtihub-trending-cli README](projects/11-gtihub-trending-cli/README.md)
+- [📄 12-tmdb-movie-cli README](projects/12-tmdb-movie-cli/README.md)
 
 ## Project URL
 
@@ -45,6 +47,7 @@ Open the project-specific readme for full setup and usage details:
 - Todo List API project: https://roadmap.sh/projects/todo-list-api
 - Expense Tracker API project: https://roadmap.sh/projects/expense-tracker-api
 - GitHub Trending CLI project: https://roadmap.sh/projects/github-trending-cli
+- TMDB Movie CLI project: https://roadmap.sh/projects/tmdb-cli
 
 ## Notes
 
