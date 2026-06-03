@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/personal-blog",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 7 - Server-Rendered Personal Blog Platform Web App",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
