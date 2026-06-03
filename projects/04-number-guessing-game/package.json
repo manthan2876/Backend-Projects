@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/number-guessing-game",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 4 - Number Guessing Game CLI application",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
