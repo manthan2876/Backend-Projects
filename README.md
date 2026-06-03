@@ -14,6 +14,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/08-blogging-plateform-api` — Blogging platform REST API backend application.
 - `projects/09-todo-list-api` — Secure todo list REST API with JWT authentication.
 - `projects/10-expense-tracker-api` — Expense tracker REST API backend application.
+- `projects/11-gtihub-trending-cli` — GitHub trending repositories CLI tool.
 
 ## Quick Start
 
@@ -29,6 +30,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 08-blogging-plateform-api README](projects/08-blogging-plateform-api/README.md)
 - [📄 09-todo-list-api README](projects/09-todo-list-api/README.md)
 - [📄 10-expense-tracker-api README](projects/10-expense-tracker-api/README.md)
+- [📄 11-gtihub-trending-cli README](projects/11-gtihub-trending-cli/README.md)
 
 ## Project URL
 
@@ -42,6 +44,7 @@ Open the project-specific readme for full setup and usage details:
 - Blogging Platform project: https://roadmap.sh/projects/blogging-platform-api
 - Todo List API project: https://roadmap.sh/projects/todo-list-api
 - Expense Tracker API project: https://roadmap.sh/projects/expense-tracker-api
+- GitHub Trending CLI project: https://roadmap.sh/projects/github-trending-cli
 
 ## Notes
 
