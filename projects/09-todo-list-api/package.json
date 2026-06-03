@@ -1,0 +1,16 @@
+{
+  "name": "@roadmap/todo-list-api",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 9 - Secure Todo List REST API with JWT Auth",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.2.0"
+  }
+}
