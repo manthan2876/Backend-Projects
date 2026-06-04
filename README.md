@@ -42,7 +42,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 14-markdown-note-taking-app README](projects/14-markdown-notes-app/README.md)
 - [📄 15-url-shortening-api README](projects/15-url-shortner/README.md)
 - [📄 16-broadcast-server README](projects/16-broadcast-server/README.md)
-- [📄 17-multi-container-service README](projects/17-multi-container-service/README.md)
+- [📄 17-multi-container-service README](projects/17-multi-container-app/README.md)
 
 ## Project URL
 
