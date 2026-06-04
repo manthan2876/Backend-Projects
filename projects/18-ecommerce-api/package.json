@@ -1,0 +1,16 @@
+{
+  "name": "@roadmap/ecommerce-api",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 18 - Scale E-Commerce Storefront REST API Server Backend",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.6.3"
+  }
+}
