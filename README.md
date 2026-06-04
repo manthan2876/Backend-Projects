@@ -21,6 +21,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/15-url-shortening-api` — URL shortener REST API application.
 - `projects/16-broadcast-server` — Real-time WebSocket broadcast server CLI.
 - `projects/17-multi-container-service` — Docker Compose Node.js and MongoDB application.
+- `projects/18-ecommerce-api` — E-commerce REST API with payment integration.
 
 ## Quick Start
 
@@ -43,6 +44,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 15-url-shortening-api README](projects/15-url-shortner/README.md)
 - [📄 16-broadcast-server README](projects/16-broadcast-server/README.md)
 - [📄 17-multi-container-service README](projects/17-multi-container-app/README.md)
+- [📄 18-ecommerce-api README](projects/18-ecommerce-api/README.md)
 
 ## Project URL
 
@@ -63,6 +65,7 @@ Open the project-specific readme for full setup and usage details:
 - URL Shortener API project: https://roadmap.sh/projects/url-shortening-service
 - Broadcast Server project: https://roadmap.sh/projects/broadcast-server
 - Multi-Container Application project: https://roadmap.sh/projects/multi-container-service
+- E-Commerce API project: https://roadmap.sh/projects/ecommerce-api
 
 ## Notes
 
