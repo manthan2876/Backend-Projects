@@ -1,0 +1,31 @@
+services:
+  # --- Service Layer 1: Headless Node.js API Web Container Engine ---
+  api-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: roadmap_api_container
+    ports:
+      - "3000:3000" 
+    environment:
+      - PORT=3000
+      # Dynamically inject root credentials safely into the URI path parameter mapping
+      - MONGO_URI=mongodb://${MONGO_INITDB_ROOT_USERNAME}:${MONGO_INITDB_ROOT_PASSWORD}@db-service:27017/roadmap_db?authSource=admin
+    depends_on:
+      - db-service
+    restart: always
+
+  # --- Service Layer 2: Persistent Storage Database Container Tiers ---
+  db-service:
+    image: mongo:latest
+    container_name: roadmap_mongo_container
+    ports:
+      - "27017:27017" 
+    env_file:
+      - .env 
+    volumes:
+      - mongo_data:/data/db 
+    restart: always
+
+volumes:
+  mongo_data:

@@ -1,0 +1,15 @@
+{
+  "name": "@roadmap/multi-container-app",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 17 - Containerized Backend Application Environment Suite",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongodb": "^7.2.0"
+  }
+}
