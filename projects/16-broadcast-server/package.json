@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/broadcast-server",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 16 - Native TCP Event-Driven Real-time Broadcast Server",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
