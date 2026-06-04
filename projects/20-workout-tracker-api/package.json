@@ -1,0 +1,14 @@
+{
+  "name": "@roadmap/workout-tracker-api",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 20 - Workout Tracker REST API Server Backend",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.22.4"
+  }
+}

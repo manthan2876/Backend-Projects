@@ -22,6 +22,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/16-broadcast-server` — Real-time WebSocket broadcast server CLI.
 - `projects/17-multi-container-service` — Docker Compose Node.js and MongoDB application.
 - `projects/18-ecommerce-api` — E-commerce REST API with payment integration.
+- `projects/20-workout-tracker-api` — Workout tracker REST API with relational DB.
 
 ## Quick Start
 
@@ -45,6 +46,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 16-broadcast-server README](projects/16-broadcast-server/README.md)
 - [📄 17-multi-container-service README](projects/17-multi-container-app/README.md)
 - [📄 18-ecommerce-api README](projects/18-ecommerce-api/README.md)
+- [📄 20-workout-tracker-api README](projects/20-workout-tracker-api/README.md)
 
 ## Project URL
 
@@ -66,6 +68,7 @@ Open the project-specific readme for full setup and usage details:
 - Broadcast Server project: https://roadmap.sh/projects/broadcast-server
 - Multi-Container Application project: https://roadmap.sh/projects/multi-container-service
 - E-Commerce API project: https://roadmap.sh/projects/ecommerce-api
+- Workout Tracker API project: https://roadmap.sh/projects/fitness-workout-tracker
 
 ## Notes
 
