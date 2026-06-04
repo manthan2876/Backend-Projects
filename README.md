@@ -20,6 +20,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/14-markdown-note-taking-app` — Markdown note-taking REST API application.
 - `projects/15-url-shortening-api` — URL shortener REST API application.
 - `projects/16-broadcast-server` — Real-time WebSocket broadcast server CLI.
+- `projects/17-multi-container-service` — Docker Compose Node.js and MongoDB application.
 
 ## Quick Start
 
@@ -41,6 +42,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 14-markdown-note-taking-app README](projects/14-markdown-notes-app/README.md)
 - [📄 15-url-shortening-api README](projects/15-url-shortner/README.md)
 - [📄 16-broadcast-server README](projects/16-broadcast-server/README.md)
+- [📄 17-multi-container-service README](projects/17-multi-container-service/README.md)
 
 ## Project URL
 
@@ -60,6 +62,7 @@ Open the project-specific readme for full setup and usage details:
 - Markdown Note-Taking App project: https://roadmap.sh/projects/markdown-note-taking-app
 - URL Shortener API project: https://roadmap.sh/projects/url-shortening-service
 - Broadcast Server project: https://roadmap.sh/projects/broadcast-server
+- Multi-Container Application project: https://roadmap.sh/projects/multi-container-service
 
 ## Notes
 
