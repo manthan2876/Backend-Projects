@@ -24,6 +24,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/18-ecommerce-api` — E-commerce REST API with payment integration.
 - `projects/20-workout-tracker-api` — Workout tracker REST API with relational DB.
 - `projects/21-image-processing-service` — Image processing REST API using AWS S3.
+- `projects/22-movie-reservation-api` — Movie reservation REST API using MongoDB.
 
 ## Quick Start
 
@@ -49,6 +50,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 18-ecommerce-api README](projects/18-ecommerce-api/README.md)
 - [📄 20-workout-tracker-api README](projects/20-workout-tracker-api/README.md)
 - [📄 21-image-processing-service README](projects/21-image-processing-service/README.md)
+- [📄 21-movie-reservation-api README](projects/22-movie-reservation-system/README.md)
 
 ## Project URL
 
@@ -72,6 +74,7 @@ Open the project-specific readme for full setup and usage details:
 - E-Commerce API project: https://roadmap.sh/projects/ecommerce-api
 - Workout Tracker API project: https://roadmap.sh/projects/fitness-workout-tracker
 - Image Processing Service project: https://roadmap.sh/projects/image-processing-service
+- Movie Reservation API project: https://roadmap.sh/projects/movie-reservation-system
 
 ## Notes
 
