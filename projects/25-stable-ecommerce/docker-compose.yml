@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  product-service:
+    build: ./product-service
+    ports:
+      - "3001:3001"
+    environment:
+      - PRODUCT_SERVICE_PORT=3001
+      - MONGO_PRODUCT_URI=mongodb://mongo-db:27017/shop_products
+    depends_on:
+      - mongo-db
+
+  order-service:
+    build: ./order-service
+    ports:
+      - "3000:3000"
+    environment:
+      - ORDER_SERVICE_PORT=3000
+      - MONGO_ORDER_URI=mongodb://mongo-db:27017/shop_orders
+      - PRODUCT_SERVICE_URL=http://product-service:3001
+      - NOTIFICATION_SERVICE_URL=http://notification-service:3002
+    depends_on:
+      - mongo-db
+      - product-service
+      - notification-service
+
+  notification-service:
+    build: ./notification-service
+    ports:
+      - "3002:3002"
+    environment:
+      - NOTIFICATION_SERVICE_PORT=3002
+    volumes:
+      - invoice-storage:/invoices
+
+  mongo-db:
+    image: mongo:latest
+    ports:
+      - "27018:27017"
+
+volumes:
+  invoice-storage:

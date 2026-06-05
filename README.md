@@ -27,6 +27,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/22-movie-reservation-api` — Movie reservation REST API using MongoDB.
 - `projects/23-realtime-leaderboard-system` — Real-Time Leaderboard API using Redis.
 - `projects/24-database-backup-cli` — Database backup CLI tool with AWS S3 support.
+- `projects/25-stable-ecommerce` — A scalable, distributed e-commerce platform built using microservices and Docker.
 
 ## Quick Start
 
@@ -55,6 +56,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 22-movie-reservation-api README](projects/22-movie-reservation-system/README.md)
 - [📄 23-realtime-leaderboard-system README](projects/23-realtime-leaderboard/README.md)
 - [📄 24-database-backup-cli README](projects/24-database-backup-cli/README.md)
+- [📄 25-stable-ecommerce README](projects/25-stable-ecommerce/README.md)
 
 ## Project URL
 
@@ -81,6 +83,7 @@ Open the project-specific readme for full setup and usage details:
 - Movie Reservation API project: https://roadmap.sh/projects/movie-reservation-system
 - Real-Time Leaderboard System project: https://roadmap.sh/projects/realtime-leaderboard-system
 - Database Backup Utility project: https://roadmap.sh/projects/database-backup-utility
+- Scalable E-Commerce Platform project: https://roadmap.sh/projects/scalable-ecommerce-platform
 
 ## Notes
 
