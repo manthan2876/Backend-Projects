@@ -1,0 +1,14 @@
+{
+  "name": "@roadmap/realtime-leaderboard",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 23 - Real-time Leaderboard Engine using Redis Sorted Sets",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "redis": "^6.0.0"
+  }
+}
