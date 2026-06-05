@@ -23,6 +23,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/17-multi-container-service` — Docker Compose Node.js and MongoDB application.
 - `projects/18-ecommerce-api` — E-commerce REST API with payment integration.
 - `projects/20-workout-tracker-api` — Workout tracker REST API with relational DB.
+- `projects/21-image-processing-service` — Image processing REST API using AWS S3.
 
 ## Quick Start
 
@@ -47,6 +48,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 17-multi-container-service README](projects/17-multi-container-app/README.md)
 - [📄 18-ecommerce-api README](projects/18-ecommerce-api/README.md)
 - [📄 20-workout-tracker-api README](projects/20-workout-tracker-api/README.md)
+- [📄 21-image-processing-service README](projects/21-image-processing-service/README.md)
 
 ## Project URL
 
@@ -69,6 +71,7 @@ Open the project-specific readme for full setup and usage details:
 - Multi-Container Application project: https://roadmap.sh/projects/multi-container-service
 - E-Commerce API project: https://roadmap.sh/projects/ecommerce-api
 - Workout Tracker API project: https://roadmap.sh/projects/fitness-workout-tracker
+- Image Processing Service project: https://roadmap.sh/projects/image-processing-service
 
 ## Notes
 
