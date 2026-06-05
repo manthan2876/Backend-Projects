@@ -1,0 +1,18 @@
+{
+  "name": "@roadmap/database-backup-cli",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 24 - Automated Database Backup Utility and Amazon S3 Uploader CLI",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1062.0",
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.6.3",
+    "mysql2": "^3.22.4",
+    "pg": "^8.21.0"
+  }
+}

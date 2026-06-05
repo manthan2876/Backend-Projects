@@ -26,6 +26,7 @@ A small monorepo of backend demo projects for learning, testing, and sharing Nod
 - `projects/21-image-processing-service` — Image processing REST API using AWS S3.
 - `projects/22-movie-reservation-api` — Movie reservation REST API using MongoDB.
 - `projects/23-realtime-leaderboard-system` — Real-Time Leaderboard API using Redis.
+- `projects/24-database-backup-cli` — Database backup CLI tool with AWS S3 support.
 
 ## Quick Start
 
@@ -53,6 +54,7 @@ Open the project-specific readme for full setup and usage details:
 - [📄 21-image-processing-service README](projects/21-image-processing-service/README.md)
 - [📄 22-movie-reservation-api README](projects/22-movie-reservation-system/README.md)
 - [📄 23-realtime-leaderboard-system README](projects/23-realtime-leaderboard/README.md)
+- [📄 24-database-backup-cli README](projects/24-database-backup-cli/README.md)
 
 ## Project URL
 
@@ -78,6 +80,7 @@ Open the project-specific readme for full setup and usage details:
 - Image Processing Service project: https://roadmap.sh/projects/image-processing-service
 - Movie Reservation API project: https://roadmap.sh/projects/movie-reservation-system
 - Real-Time Leaderboard System project: https://roadmap.sh/projects/realtime-leaderboard-system
+- Database Backup Utility project: https://roadmap.sh/projects/database-backup-utility
 
 ## Notes
 
