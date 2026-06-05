@@ -1,0 +1,11 @@
+{
+  "name": "@roadmap/movie-reservation-system",
+  "version": "1.0.0",
+  "description": "Roadmap.sh Project 22 - Movie Reservation System REST API Backend",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
